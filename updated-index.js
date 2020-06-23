@@ -2,4 +2,4 @@
 console.log("Hello Haneen");
 
 // write the console.log code with goodbye in it underneath
-
+console.log("goodbye haneen");
